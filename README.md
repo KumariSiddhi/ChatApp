@@ -77,7 +77,7 @@ Start the Client
 ## Made By
 Author
 
-Siddhi Singh
+Kumari Siddhi
 
 GitHub: https://github.com/KumariSiddhi
 
