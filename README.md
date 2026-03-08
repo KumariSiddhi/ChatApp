@@ -15,19 +15,19 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 [https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/KumariSiddhi/ ChatApp
+  git clone https://github.com/piyush-eon/mern-chat-app
 ```
 
 Go to the project directory
 
 ```bash
-  cd  ChatApp
+  cd mern-chat-app
 ```
 
 Install dependencies
@@ -58,26 +58,26 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/login.PNG)
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/signup.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/real-time.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/mainscreen.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/search.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/new%20grp.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/add%20rem.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/KumariSiddhi/ ChatApp/blob/main/screenshots/profile.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 Author
- 
- Kumari Siddhi
+
+Siddhi Singh
 
 GitHub: https://github.com/KumariSiddhi
 
